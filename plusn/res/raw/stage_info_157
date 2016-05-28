@@ -1,0 +1,23 @@
+CoordInfo,75,940,225,1140
+
+TargetInfo,5,15,5,clear_rule_3
+
+PlayGoundInfo,0,15,-3,-2,-2,-2,-3,15
+PlayGoundInfo,1,-3,-1, 0, 0, 0,-1,-3
+PlayGoundInfo,2,-2, 0, 0,-3, 0, 0,-2
+PlayGoundInfo,3,-2, 0,-3,15,-3, 0,-2
+PlayGoundInfo,4,-2, 0, 0,-3, 0, 0,-2
+PlayGoundInfo,5,-3,-1, 0, 0, 0,-1,-3
+PlayGoundInfo,6,15,-3,-2,-2,-2,-3,15
+
+BallPool,1,10
+BallPool,2,10
+BallPool,3,10
+BallPool,4,10
+BallPool,6,10
+BallPool,7,10
+BallPool,8,10
+BallPool,9,10
+
+StageSkill,5
+StageSkill,1

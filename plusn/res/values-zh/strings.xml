@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PLUSN</string>
+    <string name="top_banner_ad_unit_id">ca-app-pub-1809072494367278/5391542742</string>
+    <string name="stage_banner_ad_unit_id">ca-app-pub-1809072494367278/9821742345</string>
+    <string name="shop_banner_ad_unit_id">ca-app-pub-1809072494367278/2298475541</string>
+    <string name="tutorial_play_1_1">亲！把三号球移动到七号球的旁边吧！</string>
+    <string name="tutorial_play_1_2">在移动之后，只要是10的倍数(10,20,30....)就可以消去了哦！</string>
+    <string name="tutorial_play_1_4">把二号球向右移动一格吧！</string>
+    <string name="tutorial_play_1_5">在移动之后，没有消去的话就会把NEXT框的球随机的配置到场上哦！</string>
+    <string name="tutorial_play_1_6">移动路径上是不能有障碍物的哦！</string>
+    <string name="tutorial_play_1_7">把四号球移动到六号球的旁边吧！</string>
+    <string name="tutorial_play_1_8">移动球横竖都可以适用哦！</string>
+    <string name="tutorial_play_1_9">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_2_1">亲！把六号球向上移动两个格，可以一次性消去30分哦！</string>
+    <string name="tutorial_play_2_2">一次性消去30分以上的话，就会得到一个炸弹哦！</string>
+    <string name="tutorial_play_2_3">把炸弹向上移动两个格！</string>
+    <string name="tutorial_play_2_4">炸弹可以把周围的球都炸掉哦！</string>
+    <string name="tutorial_play_2_5">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_10_1">亲！选择画面下方闪烁的技能吧！</string>
+    <string name="tutorial_play_10_2">现在可以选择一个想要消去的球哦！</string>
+    <string name="tutorial_play_10_3">按下确定按钮，选择的球就会被夹走哦！</string>
+    <string name="tutorial_play_10_4">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_20_1">亲！选择画面下方闪烁的技能吧！</string>
+    <string name="tutorial_play_20_2">按下确定按钮，移动次数就会增加5次哦！</string>
+    <string name="tutorial_play_20_3">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_40_1">亲！选择画面下方闪烁的技能吧！</string>
+    <string name="tutorial_play_40_2">现在可以选择一个想要消去的球哦！</string>
+    <string name="tutorial_play_40_3">按下确定按钮，相同的球都会被吸走哦！</string>
+    <string name="tutorial_play_40_4">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_60_1">亲！选择画面下方闪烁的技能吧！</string>
+    <string name="tutorial_play_60_2">按下确定按钮，会随机消去最大三个球或障碍物哦！</string>
+    <string name="tutorial_play_60_3">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_80_1">亲！选择画面下方闪烁的技能吧！</string>
+    <string name="tutorial_play_80_2">按下确定按钮，所有的球都会重新配置哦！</string>
+    <string name="tutorial_play_80_3">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_33_1">亲！利用没有障碍物的路径，把七号球移动到三号球的旁边吧！</string>
+    <string name="tutorial_play_33_3">把炸弹移动到障碍物旁边的话可以破坏掉障碍物哦！</string>
+    <string name="tutorial_play_33_5">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_100_1">亲！把七号球移动到三号球的旁边吧！</string>
+    <string name="tutorial_play_100_3">周围的漩涡也会一同消去哦！</string>
+    <string name="tutorial_play_100_4">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_129_1">亲！把六号球向下移动一格吧！</string>
+    <string name="tutorial_play_129_2">球会随着箭头的方向移动一格哦！</string>
+    <string name="tutorial_play_129_3">把六号球移动到四号球的旁边吧！</string>
+    <string name="tutorial_play_129_4">球会随着箭头的方向移动一格哦！</string>
+    <string name="tutorial_play_129_5">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="tutorial_play_145_1">亲！把四号球移动到被冻住的六号球的旁边吧！</string>
+    <string name="tutorial_play_145_2">冻住六号球的冰块就会被消去了哦！</string>
+    <string name="tutorial_play_145_3">亲！现在开始自由的玩耍吧！</string>
+
+    <string name="clear_rule_1">在移动次数用完之前达到目标分数吧</string>
+    <string name="clear_rule_2">在移动次数用完之前获得目标金币吧</string>
+    <string name="clear_rule_3">在移动次数用完之前消去指定球吧</string>
+
+    <string name="shop_select_item">请选择购入物品！</string>
+    <string name="shop_select_num">请选择购入数量！</string>
+
+    <string name="skill_info_1">增加移动次数5次</string>
+    <string name="skill_info_2">刷新所有的球</string>
+    <string name="skill_info_3">随机消除最大三个球或障碍物</string>
+    <string name="skill_info_4">消除一个颜色所有的球</string>
+    <string name="skill_info_5">消除一个球或障碍物</string>
+
+    <string name="skill_sure">确定</string>
+    <string name="skill_back">返回</string>
+
+    <string name="skill_notenough">没有使用次数了</string>
+    <string name="target">目标 : </string>
+</resources>

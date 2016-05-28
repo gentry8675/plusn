@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PLUSN</string>
+    <string name="top_banner_ad_unit_id">ca-app-pub-1809072494367278/5391542742</string>
+    <string name="stage_banner_ad_unit_id">ca-app-pub-1809072494367278/9821742345</string>
+    <string name="shop_banner_ad_unit_id">ca-app-pub-1809072494367278/2298475541</string>
+    <string name="tutorial_play_1_1">ボール３をボール７の隣まで移動しよう</string>
+    <string name="tutorial_play_1_2">移動されたボールと隣接するボールが足し算で１０の倍数になったら消せます</string>
+    <string name="tutorial_play_1_4">ボール２を１マス移動しよう</string>
+    <string name="tutorial_play_1_5">ボールを移動のあと、消されない場合、ＮＥＸＴのボールがランダムで配置されます</string>
+    <string name="tutorial_play_1_6">移動ルート中にボールや障害物がありましたら移動できません</string>
+    <string name="tutorial_play_1_7">ボール４をボール６の下まで移動しよう</string>
+    <string name="tutorial_play_1_8">移動されたボールと隣接ボールが足し算で１０の倍数になったら消せます</string>
+    <string name="tutorial_play_1_9">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_2_1">ボール６を指定のマスまで移動しよう</string>
+    <string name="tutorial_play_2_2">合計３０以上で消去すると、爆弾が作られる</string>
+    <string name="tutorial_play_2_3">爆弾を指定のマスまで移動しよう</string>
+    <string name="tutorial_play_2_4">爆弾は周囲のボールを全て消去することができます</string>
+    <string name="tutorial_play_2_5">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_10_1">スキルを選択しましょう</string>
+    <string name="tutorial_play_10_2">消されたいボールを選択してみましょう</string>
+    <string name="tutorial_play_10_3">選択されたボールを消去できます発動ボタンを選択してみましょう</string>
+    <string name="tutorial_play_10_4">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_20_1">スキルを選択しましょう</string>
+    <string name="tutorial_play_20_2">ボールの移動回数５回増えます発動ボタンを選択してみましょう</string>
+    <string name="tutorial_play_20_3">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_40_1">スキルを選択しましょう</string>
+    <string name="tutorial_play_40_2">消されたいボールを選択してみましょう</string>
+    <string name="tutorial_play_40_3">選択されたボールと同じ数値のボールをすべて消去できます発動ボタンを選択してみましょう</string>
+    <string name="tutorial_play_40_4">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_60_1">スキルを選択しましょう</string>
+    <string name="tutorial_play_60_2">ランダムで障害物を３つ消去する発動ボタンを選択してみましょう</string>
+    <string name="tutorial_play_60_3">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_80_1">スキルを選択しましょう</string>
+    <string name="tutorial_play_80_2">すべてのボールをランダムで再配置する発動ボタンを選択してみましょう</string>
+    <string name="tutorial_play_80_3">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_33_1">障害物がないルートで、ボール７をボール３の隣に移動しましょう</string>
+    <string name="tutorial_play_33_3">爆弾を障害物の隣に移動して、障害物を壊しましょう</string>
+    <string name="tutorial_play_33_5">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_100_1">ボール７をボール３の隣に移動しましょう</string>
+    <string name="tutorial_play_100_3">ボール３が消去された際に、隣のスターダストが一緒に消去される</string>
+    <string name="tutorial_play_100_4">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_129_1">ボール６を下に１つマス移動しましょう</string>
+    <string name="tutorial_play_129_2">移動の後に矢印あるマスのボールが矢印の方向で１マス積める</string>
+    <string name="tutorial_play_129_3">ボール６を下に１つマス移動しましょう</string>
+    <string name="tutorial_play_129_4">移動の後に矢印あるマスのボールが矢印の方向で１マス積める</string>
+    <string name="tutorial_play_129_5">ボールを自由に動かして消してみましょう</string>
+    <string name="tutorial_play_145_1">ボール４を凍り付いたボール６の隣に移動しましょう</string>
+    <string name="tutorial_play_145_2">ボール６の氷を消去できる</string>
+    <string name="tutorial_play_145_3">ボールを自由に動かして消してみましょう</string>
+
+    <string name="clear_rule_1">移動回数が無くなる前に目標スコアを達成しよう</string>
+    <string name="clear_rule_2">移動回数が無くなる前に目標ゴールドを手に入れよう</string>
+    <string name="clear_rule_3">移動回数が無くなる前に指定された数のボールを消そう</string>
+
+    <string name="shop_select_item">アイテムを選ぼう！</string>
+    <string name="shop_select_num">数を選ぼう！</string>
+
+    <string name="skill_info_1">移動回数を５回増やす</string>
+    <string name="skill_info_2">すべてのボールをランダムで再配置する</string>
+    <string name="skill_info_3">ランダムでボールや障害物を最大３つ消す</string>
+    <string name="skill_info_4">選択されたボールおよび同じ数字のボールを全部消す</string>
+    <string name="skill_info_5">選択されたボールもしくは障害物を一つ消す</string>
+
+    <string name="skill_sure">発動</string>
+    <string name="skill_back">戻る</string>
+
+    <string name="skill_notenough">回数がありません</string>
+
+    <string name="target">目標 : </string>
+
+</resources>
